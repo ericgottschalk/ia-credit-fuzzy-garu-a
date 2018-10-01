@@ -1,0 +1,9 @@
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\bin\Release\netcoreapp2.0\ENG.Fuzzy.deps.json
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\bin\Release\netcoreapp2.0\ENG.Fuzzy.dll
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\bin\Release\netcoreapp2.0\ENG.Fuzzy.pdb
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.csprojAssemblyReference.cache
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.AssemblyInfoInputs.cache
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.AssemblyInfo.cs
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.dll
+C:\Users\Eric\Downloads\ENG.Fuzzy\ENG.Fuzzy\obj\Release\netcoreapp2.0\ENG.Fuzzy.pdb
